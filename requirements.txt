@@ -1,0 +1,7 @@
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+tqdm>=4.65.0
+nselib>=0.7.6
+ta>=0.11.0
+TA-Lib>=0.4.28
