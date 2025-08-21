@@ -76,6 +76,9 @@ Needs TA-Lib properly installed. On Windows:
 pip install TA-Lib-bin
 
 
+(Added a smafilter.py to check sma divergence or convergence)
+
+
 For Linux/macOS:
 
 sudo apt-get install ta-lib
